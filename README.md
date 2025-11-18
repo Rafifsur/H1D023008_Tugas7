@@ -1,14 +1,4 @@
-# Personal App - Flutter Application
-
-Aplikasi Flutter dengan desain elegant dan modern yang menampilkan dashboard personal, informasi pengguna, dan sistem navigasi yang mulus.
-
-## 📱 Fitur Utama
-
-- **Login System** - Autentikasi pengguna dengan validasi
-- **Personal Dashboard** - Dashboard interaktif dengan berbagai fitur
-- **About Page** - Informasi personal dan developer
-- **Elegant Design** - Desain mewah dengan gradient purple-blue
-- **Responsive Navigation** - Side menu dengan animasi smooth
+# Tugas 7 Pert 9
 
 ## 📝 Penjelasan Kode per Halaman
 
@@ -63,28 +53,6 @@ Aplikasi Flutter dengan desain elegant dan modern yang menampilkan dashboard per
 - showDialog() untuk logout confirmation
 ```
 
-## 🎨 Design System
-
-### **Color Palette**
-- **Primary Gradient**: `#667eea` → `#764ba2` (Purple-Blue)
-- **Text**: White dengan opacity variations
-- **Background**: Semi-transparent cards
-- **Accent**: White dengan subtle transparency
-
-### **UI Components**
-- **Cards**: Rounded corners dengan shadow
-- **Buttons**: Gradient backgrounds dengan hover effects
-- **Icons**: Material Design icons dengan white color
-- **Typography**: Elegant font weights dan sizes
-
-## 🔧 Dependencies
-
-```yaml
-dependencies:
-  flutter: sdk: flutter
-  shared_preferences: ^2.0.15  # Local storage
-  cupertino_icons: ^1.0.2      # iOS-style icons
-```
 
 ## 📁 File Structure
 
@@ -97,28 +65,11 @@ lib/
 └── sidemenu.dart       # Navigation drawer
 ```
 
-## 🚀 Cara Menjalankan
-
-1. **Clone repository**
-   ```bash
-   git clone [repository-url]
-   cd H1D023008_Tugas7
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run aplikasi**
-   ```bash
-   flutter run
-   ```
 
 
 
 
-## 👨‍💻 Developer Info
+## 👨‍💻 TUGAS
 
 **Nama:** Rafif Surya Murtadha  
 **NPM:** H1D023008  
